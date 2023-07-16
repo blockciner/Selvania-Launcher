@@ -1,11 +1,11 @@
 {
     "name": "block-launcher",
     "preductname": "Cinéblock Launcher",
-    "version": "1.3.1",
+    "version": "1.3.4",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Himmlisch",
-    "url": "http://163.5.83.67",
+    "url": "http://85.208.114.2",
     "engines": {
         "node": "^18.x.x"
     },
